@@ -4,4 +4,4 @@
 Кастамизация и красивое оформление.
 Можно было бы добавить ещё навыков и кастомизации.
 Этот проект неплох и в него много чего ещё можно добавить и изменить. (7-10)
-!(https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
